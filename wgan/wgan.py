@@ -7,7 +7,6 @@ from keras.layers import LeakyReLU
 from keras.layers import UpSampling2D, Conv2D
 from keras.models import Sequential, Model
 from keras.optimizers import RMSprop
-
 import tensorflow.keras.backend as K
 
 import matplotlib.pyplot as plt
